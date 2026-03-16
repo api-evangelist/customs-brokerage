@@ -1,4 +1,4 @@
-name: Customs Brokerage API
+name: Customs Brokerage
 description: API for managing customs brokerage operations including clearance, declarations, duty calculations, and compliance documentation
 url: https://api.customsbroker.example.com
 tags:
