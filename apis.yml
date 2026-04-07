@@ -4,12 +4,12 @@ description: >-
   duty calculations, and compliance documentation.
 url: https://api.customsbroker.example.com
 tags:
-  - customs
-  - brokerage
-  - import
-  - export
-  - trade
-  - compliance
+  - Brokerage
+  - Compliance
+  - Customs
+  - Export
+  - Import
+  - Trade
 created: '2024-01-15'
 modified: '2026-03-16'
 apis:
@@ -20,10 +20,10 @@ apis:
     humanURL: https://customsbroker.example.com
     version: '1.0'
     tags:
-      - customs
-      - declarations
-      - duties
-      - clearance
+      - Clearance
+      - Customs
+      - Declarations
+      - Duties
     properties:
       - type: Documentation
         url: https://docs.customsbroker.example.com
