@@ -1,6 +1,6 @@
 aid: customs-brokerage
 name: Customs Brokerage
-x-type: topic
+kind: topic
 description: >-
   Customs brokerage is the licensed practice of clearing imported and
   exported goods through customs authorities on behalf of importers,
