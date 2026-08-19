@@ -34,7 +34,7 @@ access: Public
 position: Consuming
 created: '2024-01-15'
 modified: '2026-04-28'
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 tags:
   - ABI
   - ACE
