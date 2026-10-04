@@ -50,7 +50,6 @@ tags:
   - ABI
   - ACE
   - AES
-  - Brokerage
   - Cargo Release
   - Compliance
   - Customs
@@ -67,7 +66,6 @@ tags_raw:
   - ABI
   - ACE
   - AES
-  - Brokerage
   - Cargo Release
   - Compliance
   - Customs
@@ -109,3 +107,5 @@ common:
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
+x-tags-removed:
+- Brokerage
